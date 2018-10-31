@@ -40,3 +40,7 @@ Aprovechando la estructura de [Laravel](https://laravel.com/), se lleva a cabo u
 * El usuario deberá suministrar un nombre para llegar a la ventana de cálculo.
 * Las cifras suministradas deberán ser de tipo numérico.
 * Todo error será reflejado en pantalla para ponerlo en conocimiento del usuario.
+
+## Otros
+
+* El proyecto está estructurado con un sistema de plantillas.
